@@ -27,7 +27,7 @@ const FirebaseCrud = () => {
   //Used Stocks
   const [aUsedStocks, setAUsedStocks] = useState("");
 
-  //store vaccineInfo after getting them bfrom firebase
+  //store vaccineInfo after getting them from firebase
   const [vaccineData, setVaccineData] = useState([]);
 
   //store data (for update)

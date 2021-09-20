@@ -25,9 +25,20 @@ function Boot() {
       To ensure your safety and wellbeing, you will be observed for 20 minutes after  vaccination at the centre,
       To obtain maximum protection, the number of recommended doses for that  specific vaccine must be received.
       As with all vaccines, side effects are possible.
-     
-
+ 
       </p>
+
+
+      {/* <h1>What are the Benefits of getting vaccinated ?</h1>
+      <p>
+      The COVID-19 vaccines produce protection against the disease, as a result of developing an immune response to the SARS-Cov-2 virus.
+        Developing immunity through vaccination means there is a reduced risk of developing the  illness and its consequences.
+         This immunity helps you fight the virus if exposed. Getting vaccinated may also protect people around you, 
+         because if you are protected from getting infected and from disease, you are less likely to infect someone else. 
+         This is particularly important to protect people at increased risk for severe illness from COVID-19, such as healthcare providers, 
+         older or elderly adults, and people with other medical conditions.
+ 
+      </p> */}
 
     </div>
   );
